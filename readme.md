@@ -1,9 +1,14 @@
-Hi im diganta 
+# Hi i'm Diganta Dutta
 
-i prefer making hardware projects but i can code alright
+I prefer making hardware projects but I can code alright
 
-# notable projects:
+## programming languages: 
+* python
+* c
+* javascript
+* godot - Gd script
 
+## notable projects:
 * ai charecter
 * electroscope app
 * vc website
